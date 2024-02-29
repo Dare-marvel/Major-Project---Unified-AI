@@ -1,1 +1,2 @@
-# Major-Project---Unified-AI
+# PRAGYADATA - A Comprehensive Multi-Modal A.I Chatbot for General Purpose
+
